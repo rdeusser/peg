@@ -1,5 +1,4 @@
-Building on a Unix-like system
-------------------------------
+## Building on a Unix-like system
 
 Type 'make' or 'make test'.
 
@@ -14,8 +13,7 @@ Edit 'Makefile' to change the way things are built and/or the places
 where things are installed.
 
 
-Building on MacOS X
--------------------
+## Building on MacOS X
 
 Run the 'build-mac.sh' script from a terminal or by double-clicking on
 it in the Finder.
@@ -27,8 +25,7 @@ Modify build-mac.sh and/or peg.xcodeproj to change the way things are
 built.
 
 
-Building on Windows
--------------------
+## Building on Windows
 
 Run the 'build-win.cmd' script.
 
